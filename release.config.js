@@ -16,16 +16,14 @@ module.exports = {
                 changelogFile: 'CHANGELOG.md'
             }
         ],
-        // [ '@semantic-release/npm', {
-        //     publish: false,
-        // }],
-        // '@semantic-release/github',
-        // [
-        //     '@semantic-release/git',
-        //     {
-        //         assets: ['CHANGELOG.md', 'dist/**'],
-        //         message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
-        //     }
-        // ]
+        '@semantic-release/npm',
+        '@semantic-release/github',
+        [
+            '@semantic-release/git',
+            {
+                assets: ['CHANGELOG.md', 'dist/**'],
+                message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
+            }
+        ]
     ]
 }
