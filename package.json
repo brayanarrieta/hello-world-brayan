@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-brayan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "del ./build/*",
+    "build": "npm run clean && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanarrieta/hello-world-brayan.git"
+  },
+  "author": "brayanarrieta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brayanarrieta/hello-world-brayan/issues"
+  },
+  "homepage": "https://github.com/brayanarrieta/hello-world-brayan#readme",
+  "devDependencies": {
+    "del-cli": "^4.0.1",
+    "typescript": "^4.5.4"
+  }
+}
