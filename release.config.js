@@ -15,14 +15,18 @@ module.exports = {
                 changelogFile: 'CHANGELOG.md'
             }
         ],
-        '@semantic-release/npm',
-        '@semantic-release/github',
+        ["@semantic-release/npm", {
+            "tarballDir": "release"
+        }],
+        ["@semantic-release/github", {
+            "assets": "release/*.tgz"
+        }],
         [
             '@semantic-release/git',
             {
                 assets: [
-                    'CHANGELOG.md', 
-                    'dist/**',
+                    'CHANGELOG.md',
+                    // 'dist/**',
                     'package.json',
                     'package-lock.json'
                 ],
