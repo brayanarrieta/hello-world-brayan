@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "clean": "del ./build/*",
-    "build": "npm run clean && tsc"
+    "build": "npm run clean && tsc",
+    "commit": "cz",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,19 @@
   },
   "homepage": "https://github.com/brayanarrieta/hello-world-brayan#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "del-cli": "^4.0.1",
+    "husky": "^7.0.4",
     "typescript": "^4.5.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
   }
 }
