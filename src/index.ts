@@ -1,5 +1,5 @@
-export const CONSTANT_ONE = 'ONE';
+export const CONSTANT_ONE = 1;
 
-export const CONSTANT_TWO = 'TWO';
+export const CONSTANT_TWO = 2;
 
-export const CONSTANT_FOUR = 'FOUR';
+export const CONSTANT_FOUR = 4;
