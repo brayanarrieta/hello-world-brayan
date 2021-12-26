@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.0...v1.2.1) (2021-12-26)
+
+
+### Bug Fixes
+
+* fix problem with string value ([28ce420](https://github.com/brayanarrieta/hello-world-brayan/commit/28ce420f787eb9b3d16d677f10c83c4982acc081))
+
 # [1.2.0](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.1.0...v1.2.0) (2021-12-26)
 
 
