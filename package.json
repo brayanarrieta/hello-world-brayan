@@ -7,7 +7,8 @@
     "clean": "del ./build/*",
     "build": "npm run clean && tsc",
     "cm": "cz",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -20,9 +21,12 @@
   },
   "homepage": "https://github.com/brayanarrieta/hello-world-brayan#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "cz-conventional-changelog": "^3.3.0",
     "del-cli": "^4.0.1",
     "husky": "^7.0.0",
+    "semantic-release": "^18.0.1",
     "typescript": "^4.5.4"
   },
   "config": {
