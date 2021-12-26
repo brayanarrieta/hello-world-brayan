@@ -1,3 +1,10 @@
+# [1.3.0-beta.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.1...v1.3.0-beta.1) (2021-12-26)
+
+
+### Features
+
+* improve release process ([743d02d](https://github.com/brayanarrieta/hello-world-brayan/commit/743d02dbab355d374a15654b8ce35e8976dc8eb5))
+
 ## [1.2.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.0...v1.2.1) (2021-12-26)
 
 
