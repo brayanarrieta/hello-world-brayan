@@ -1,3 +1,15 @@
+# [1.4.0-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0...v1.4.0-beta-new.1) (2021-12-26)
+
+
+### Bug Fixes
+
+* fix issue with six constant ([db975b9](https://github.com/brayanarrieta/hello-world-brayan/commit/db975b981c252f050e9ce51017fc8187646a5e1d))
+
+
+### Features
+
+* fix problems with CI ([a31da12](https://github.com/brayanarrieta/hello-world-brayan/commit/a31da12e998bc40d3f754309fef2c9ae65f70df2))
+
 # [1.3.0](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.1...v1.3.0) (2021-12-26)
 
 
