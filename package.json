@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "del ./build/*",
     "build": "npm run clean && tsc",
-    "commit": "cz",
+    "cm": "cz",
     "prepare": "husky install"
   },
   "repository": {
