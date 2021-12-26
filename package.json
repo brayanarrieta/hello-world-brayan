@@ -12,7 +12,7 @@
     "build": "npm run clean && tsc",
     "cm": "cz",
     "prepare": "husky install",
-    "release": "semantic-release --no-ci"
+    "release": "semantic-release --no-ci --debug"
   },
   "repository": {
     "type": "git",
