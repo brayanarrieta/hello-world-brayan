@@ -1,3 +1,9 @@
+# [1.3.0-beta.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.1...v1.3.0-beta.1) (2021-12-26)
+
+
+### Features
+
+* try to merge with next release ([b31be16](https://github.com/brayanarrieta/hello-world-brayan/commit/b31be16b98c605c237ca7864f847de11d11ea1c2))
 
 # [1.3.0-beta.2](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2021-12-26)
 
