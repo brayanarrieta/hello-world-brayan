@@ -8,7 +8,7 @@
     "build": "npm run clean && tsc",
     "cm": "cz",
     "prepare": "husky install",
-    "release": "semantic-release"
+    "release": "semantic-release --no-ci"
   },
   "repository": {
     "type": "git",

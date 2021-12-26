@@ -1,4 +1,5 @@
 module.exports = {
+    dryRun: false,
     branches: [
         'main',
         {
@@ -15,7 +16,9 @@ module.exports = {
                 changelogFile: 'CHANGELOG.md'
             }
         ],
-        // '@semantic-release/npm',
+        // [ '@semantic-release/npm', {
+        //     publish: false,
+        // }],
         // '@semantic-release/github',
         // [
         //     '@semantic-release/git',
