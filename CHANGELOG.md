@@ -1,3 +1,12 @@
+
+# [1.3.0-beta.2](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2021-12-26)
+
+
+### Bug Fixes
+
+* fix problem change string to numbers ([9204cb5](https://github.com/brayanarrieta/hello-world-brayan/commit/9204cb5cd962085c3448d7b577dcf1a5b9120edc))
+
+
 # [1.3.0-beta.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.2.1...v1.3.0-beta.1) (2021-12-26)
 
 
