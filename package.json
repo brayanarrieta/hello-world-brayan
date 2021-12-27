@@ -1,6 +1,6 @@
 {
   "name": "hello-world-brayan",
-  "version": "1.4.1-beta-new.1",
+  "version": "1.4.1",
   "description": "",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
