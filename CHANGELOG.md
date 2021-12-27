@@ -3,6 +3,15 @@
 
 ### Features
 
+* add new changes ([9372d5b](https://github.com/brayanarrieta/hello-world-brayan/commit/9372d5b40016c4794c1765aa5baf1696a059017c))
+* add support to seven constant ([2a951a3](https://github.com/brayanarrieta/hello-world-brayan/commit/2a951a3af268477f5644df0a980ad3b09a8a4668))
+* add support to seven constant ([dd43b18](https://github.com/brayanarrieta/hello-world-brayan/commit/dd43b18a78dfa6a7d604f6c6249014351cdc2fd1))
+
+# [1.4.0-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0...v1.4.0-beta-new.1) (2021-12-27)
+
+
+### Features
+
 * add support to seven constant ([dd43b18](https://github.com/brayanarrieta/hello-world-brayan/commit/dd43b18a78dfa6a7d604f6c6249014351cdc2fd1))
 
 # [1.4.0-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0...v1.4.0-beta-new.1) (2021-12-26)
