@@ -1,3 +1,10 @@
+# [1.4.0-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0...v1.4.0-beta-new.1) (2021-12-27)
+
+
+### Features
+
+* add support to seven constant ([dd43b18](https://github.com/brayanarrieta/hello-world-brayan/commit/dd43b18a78dfa6a7d604f6c6249014351cdc2fd1))
+
 # [1.4.0-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.3.0...v1.4.0-beta-new.1) (2021-12-26)
 
 
