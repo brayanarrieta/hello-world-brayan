@@ -35,12 +35,12 @@ module.exports = {
         [
             "@saithodev/semantic-release-backmerge",
             {
-              "branches": ["beta-new"],
+              "branches": ["develop"],
               "plugins": [
                 [
                   "@semantic-release/exec",
                   {
-                    "successCmd": "echo 'Version in dev is ${nextRelease.version}'"
+                    "successCmd": "echo 'Version in develop is ${nextRelease.version}'"
                   }
                 ]
               ]
