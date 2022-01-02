@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.5.0...v1.6.0) (2022-01-02)
+
+
+### Features
+
+* fix problems with backmerge ([5b8bc9c](https://github.com/brayanarrieta/hello-world-brayan/commit/5b8bc9cac8fa6de19516b6c6a1b7e4c75f728281))
+
 # [1.5.0](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.4.1...v1.5.0) (2022-01-02)
 
 
