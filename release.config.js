@@ -26,12 +26,25 @@ module.exports = {
             {
                 assets: [
                     'CHANGELOG.md',
-                    // 'dist/**',
                     'package.json',
                     'package-lock.json'
                 ],
-                // message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
+                message: 'chore(release): set `package.json` to ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
             }
-        ]
+        ],
+        [
+            "@saithodev/semantic-release-backmerge",
+            {
+              "branches": ["beta-new"],
+              "plugins": [
+                [
+                  "@semantic-release/exec",
+                  {
+                    "successCmd": "echo 'Version in dev is ${nextRelease.version}'"
+                  }
+                ]
+              ]
+            }
+          ]
     ]
 }

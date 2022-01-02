@@ -1,9 +1,10 @@
 ## [1.4.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.4.0...v1.4.1) (2021-12-27)
-
+## [1.4.1-beta-new.2](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.4.1-beta-new.1...v1.4.1-beta-new.2) (2022-01-02)
 
 ### Bug Fixes
 
 * problems with seven constant ([d74b5d8](https://github.com/brayanarrieta/hello-world-brayan/commit/d74b5d83044ae7d2e3b030655e850ff3b3ae9db2))
+* add back merge support ([6855a4a](https://github.com/brayanarrieta/hello-world-brayan/commit/6855a4af56f90bfbcbfb2148556e6b2a37ed1f26))
 
 ## [1.4.1-beta-new.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.4.0...v1.4.1-beta-new.1) (2021-12-27)
 

@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/brayanarrieta/hello-world-brayan#readme",
   "devDependencies": {
+    "@saithodev/semantic-release-backmerge": "^2.1.0",
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
     "cz-conventional-changelog": "^3.3.0",
