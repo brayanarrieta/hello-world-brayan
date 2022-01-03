@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.6.0...v1.6.1) (2022-01-03)
+
+
+### Performance Improvements
+
+* improve ([7ddd7f1](https://github.com/brayanarrieta/hello-world-brayan/commit/7ddd7f1a8ede2919b3dfb17466137877a0bab237))
+
 # [1.6.0](https://github.com/brayanarrieta/hello-world-brayan/compare/v1.5.0...v1.6.0) (2022-01-02)
 
 
