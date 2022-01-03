@@ -8,3 +8,4 @@ export const CONSTANT_SIX = 6;
 
 export const CONSTANT_SEVEN = 7;
 
+export const CONSTANT_NINE = 7;
